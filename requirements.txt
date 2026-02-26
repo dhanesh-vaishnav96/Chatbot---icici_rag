@@ -9,6 +9,5 @@ pypdf
 jinja2
 python-multipart
 groq
-google-generativeai
 python-dotenv
 langchain-huggingface
