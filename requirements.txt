@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-qdrant
+sentence-transformers
+qdrant-client
+pypdf
+jinja2
+python-multipart
+groq
+google-generativeai
+python-dotenv
+langchain-huggingface
